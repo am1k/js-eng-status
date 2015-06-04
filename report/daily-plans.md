@@ -11,3 +11,8 @@
 1. Prepare template of trainee workbook (~3h)
 1. Prepare video matherial (~3h)
 1. Review content and try worklow trainee-mentor (~2h)
+
+##2015-June-05
+
+1. Finish Lesson 2: Creating and Modifying a Repository (~4h)
+2. Start Table of Contents (~4h)
