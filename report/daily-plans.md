@@ -16,3 +16,8 @@
 
 1. Finish Lesson 2: Creating and Modifying a Repository (~4h)
 2. Start Table of Contents (~4h)
+
+##2015-June-08
+
+1. Finish Lesson 3 (~ 3h)
+2. Start learning develop tools (~ 5h)
