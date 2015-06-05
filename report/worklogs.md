@@ -44,5 +44,15 @@
 		* Lesson 2: Creating and Modifying a Repository (~ 1h 20m)
 
 
+##2015-June-05
 
+* *Practice*
+	
+	* Lesson 1: Navigating a Commit History (~ 2h)
+		* add files to repository
+		* add answers
+	* Lesson 2 Creating and Modifying a Repository (~ 3h)
+		* add files to repository
+		* add answers
+	* Lesson 3 (~ 2h 20m)
 
