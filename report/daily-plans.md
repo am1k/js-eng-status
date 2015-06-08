@@ -1,5 +1,12 @@
 #Daily Plans
 
+##2015-June-09
+
+1. Chapter 2: Advanced DOM and Styles (~ 2h)
+2. Chapter 3: Working With the Console (~ 2h)
+3. Chapter 4: Debugging JavaScript (~ 2h)
+4. Naming Conventions (~ 2h)
+
 ##2015-June-08
 
 1. Finish Lesson 3 (~ 3h)
