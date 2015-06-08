@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-June-08
+
+* *Practice*
+
+	* Lesson 3 (~ 1h 20m) 
+	* Text Editor vs IDE (~ 20m)
+	* Brief intro to JavaScript (~ 40m)
+	* Use NodeJS and NPM (~ 4h 30m)
+	* Chapter 1: Getting Started & Basic DOM and Styles (~ 1h)
+
+
 ##2015-June-05
 
 * *Practice*
