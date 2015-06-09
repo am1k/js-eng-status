@@ -1,6 +1,6 @@
 #Worklogs
 
-##2015-June-08
+##2015-June-09
 
 * *Practice*
 	* Finished Discover Developer Tools ( ~ 1h)
