@@ -7,7 +7,7 @@
 	* Naming Conventions ( ~ 2h)
 
 * *Theory*	
-	Table of Contents ( ~ 5h)
+	* Table of Contents ( ~ 5h)
 		* Introduction
 		* Values, Types, and Operators
 		* Program Structure
