@@ -3,6 +3,20 @@
 ##2015-June-08
 
 * *Practice*
+	* Finished Discover Developer Tools ( ~ 1h)
+	* Naming Conventions ( ~ 2h)
+
+* *Theory*	
+	Table of Contents ( ~ 5h)
+		* Introduction
+		* Values, Types, and Operators
+		* Program Structure
+		
+
+
+##2015-June-08
+
+* *Practice*
 
 	* Lesson 3 (~ 1h 20m) 
 	* Text Editor vs IDE (~ 20m)
