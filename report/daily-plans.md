@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-June-10
+
+1. Program Structure ( ~ 3h)
+2. Practice ( ~5h)
+
 ##2015-June-09
 
 1. Chapter 2: Advanced DOM and Styles (~ 2h)
