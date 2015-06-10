@@ -3,8 +3,8 @@
 
 ##2015-June-11
 
-1.Recursion (~ 4h)
-2.Data Structures: Objects and Arrays (~ 4h)
+1. Recursion (~ 4h)
+2. Data Structures: Objects and Arrays (~ 4h)
 
 
 ##2015-June-10
