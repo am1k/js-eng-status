@@ -1,5 +1,6 @@
 #Daily Plans
 
+
 ##2015-June-11
 
 1.Recursion (~ 4h)
