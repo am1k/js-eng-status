@@ -1,5 +1,13 @@
 #Worklogs
 
+##2015-June-10 
+
+* *Practice*
+	* Triangle drawing (~ 20min) (https://github.com/am1k/eloquent-samples)
+	* FizzBuzz (~ 1h) (https://github.com/am1k/eloquent-samples)
+	* Chess Board (~ 3h ) (https://github.com/am1k/eloquent-samples)
+	* Write your own 'Drawings' like Chess Board (~ 3h) (https://github.com/am1k/eloquent-samples)
+
 ##2015-June-09
 
 * *Practice*
@@ -13,7 +21,6 @@
 		* Program Structure
 		
 
-
 ##2015-June-08
 
 * *Practice*
@@ -21,7 +28,7 @@
 	* Lesson 3 (~ 1h 20m) 
 	* Text Editor vs IDE (~ 20m)
 	* Brief intro to JavaScript (~ 40m)
-	* Use NodeJS and NPM (~ 4h 30m)
+	* Use NodeJS and NPM (~ 4h 30m) (https://github.com/am1k/javascripting)
 	* Chapter 1: Getting Started & Basic DOM and Styles (~ 1h)
 
 
@@ -29,13 +36,13 @@
 
 * *Practice*
 	
-	* Lesson 1: Navigating a Commit History (~ 2h)
+	* Lesson 1: Navigating a Commit History (~ 2h) (https://github.com/am1k/asteroids)
+		* add files to repository ()
+		* add answers 	(https://github.com/am1k/answers)
+	* Lesson 2 Creating and Modifying a Repository (~ 3h) (https://github.com/am1k/pappu-pakia)
 		* add files to repository
-		* add answers
-	* Lesson 2 Creating and Modifying a Repository (~ 3h)
-		* add files to repository
-		* add answers
-	* Lesson 3 (~ 2h 20m)
+		* add answers (https://github.com/am1k/answers)
+	* Lesson 3 (~ 2h 20m) (https://github.com/am1k/recipes)
 
 ##2015-June-04
 
