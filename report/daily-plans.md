@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-June-12 
+
+1. Finish exercise chapter 4 (~ 4h)
+2. Chapter 5 ( ~ 4h)
 
 ##2015-June-11
 
