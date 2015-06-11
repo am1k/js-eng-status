@@ -1,12 +1,18 @@
 #Worklogs
 
+##2015-June-11
+
+* *Practice* (https://github.com/am1k/eloquent-samples)
+	* Exercise chapter 3 (~ 4h) 
+	* Exercise chapter 4 (~ 4h)
+
 ##2015-June-10 
 
-* *Practice*
-	* Triangle drawing (~ 20min) (https://github.com/am1k/eloquent-samples)
-	* FizzBuzz (~ 1h) (https://github.com/am1k/eloquent-samples)
-	* Chess Board (~ 3h ) (https://github.com/am1k/eloquent-samples)
-	* Write your own 'Drawings' like Chess Board (~ 3h) (https://github.com/am1k/eloquent-samples)
+* *Practice* (https://github.com/am1k/eloquent-samples)
+	* Triangle drawing (~ 20min)
+	* FizzBuzz (~ 1h) 
+	* Chess Board (~ 3h ) 
+	* Write your own 'Drawings' like Chess Board (~ 3h) 
 
 ##2015-June-09
 
@@ -41,7 +47,7 @@
 		* add answers 	(https://github.com/am1k/answers)
 	* Lesson 2 Creating and Modifying a Repository (~ 3h) (https://github.com/am1k/pappu-pakia)
 		* add files to repository
-		* add answers (https://github.com/am1k/answers)
+		* add answers 
 	* Lesson 3 (~ 2h 20m) (https://github.com/am1k/recipes)
 
 ##2015-June-04
