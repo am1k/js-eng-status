@@ -2,8 +2,8 @@
 
 ##2015-June-15
 
-1. Сhapter 5 [theory] ( ~ 2h)
-2. Chapter 5 [practise] ( ~ 5h)
+1. Сhapter 5 theory ( ~ 2h)
+2. Chapter 5 practise ( ~ 5h)
 3. Chapter 6 ( ~ 1h)
 
 ##2015-June-12 
