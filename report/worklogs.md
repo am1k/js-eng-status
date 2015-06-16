@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-June-15 (https://github.com/am1k/eloquent-samples)
+
+* *Practice* 
+	* Theory chapter 5 ( ~ 2h) 
+	* Exercises chapter 5 ( ~ 5h)
+	* Theory chapter 6 ( ~ 1h)
+
 ##2015-June-12
 
 * *Practice* (https://github.com/am1k/eloquent-samples)
