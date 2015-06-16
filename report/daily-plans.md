@@ -1,21 +1,25 @@
 #Daily Plans
 
+##2015-June-16 
+
+1. Chapter Project: Electronic Life theory (~ 5h)
+
 ##2015-June-16
 
-1. Chapter 6 theory ( ~ 2h)
-2. Chapter 6 practise ( ~ 5h)
-3. Chapter 7 theory ( ~ 1h)
+1. Chapter The Secret Life of Objects theory ( ~ 2h)
+2. Chapter The Secret Life of Objects practise ( ~ 5h)
+3. Chapter Project: Electronic Life theory ( ~ 1h)
 
 ##2015-June-15
 
-1. Сhapter 5 theory ( ~ 2h)
-2. Chapter 5 practise ( ~ 5h)
-3. Chapter 6 ( ~ 1h)
+1. Сhapter Higher-Order Functions theory ( ~ 2h)
+2. Chapter Higher-Order Functions practise ( ~ 5h)
+3. Chapter The Secret Life of Objects ( ~ 1h)
 
 ##2015-June-12 
 
-1. Finish exercise chapter 4 (~ 4h)
-2. Chapter 5 ( ~ 4h)
+1. Finish exercise chapter Data Structures: Objects and Arrays (~ 4h)
+2. Chapter Higher-Order Functions ( ~ 4h)
 
 ##2015-June-11
 
