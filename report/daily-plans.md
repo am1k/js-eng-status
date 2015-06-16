@@ -1,6 +1,6 @@
 #Daily Plans
 
-##2015-June-16 
+##2015-June-17 
 
 1. Chapter Project: Electronic Life theory (~ 5h)
 
