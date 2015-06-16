@@ -2,26 +2,33 @@
 
 ##2015-June-15 
 
-* *Practice* (https://github.com/am1k/eloquent-samples) 
-	* Theory chapter 5 ( ~ 2h) 
-	* Exercises chapter 5 ( ~ 5h)
-	* Theory chapter 6 ( ~ 1h)
+* *Practice* 
+	* Exercises The Secret Life of Objects (~ 5h) 
+	* Theory Project: Electronic Life (~ 3h)
+
+
+##2015-June-15 
+
+* *Practice* 
+	* Theory Higher-Order Functions ( ~ 2h) 
+	* Exercises Higher-Order Functions ( ~ 5h) (https://github.com/am1k/eloquent-samples/tree/master/chapter%20Higher-Order%20Functions)
+	* Theory The Secret Life of Objects ( ~ 1h)
 
 ##2015-June-12
 
-* *Practice* (https://github.com/am1k/eloquent-samples)
-	* Exercise chapter 4 (~ 6h) 
-	* Theory chapter 5 ( ~ 2h)	
+* *Practice* 
+	* Exercise Data Structures: Objects and Arrays (~ 6h) (https://github.com/am1k/eloquent-samples/tree/master/chapter%20Data%20Structures)
+	* Theory Higher-Order Functions ( ~ 2h)	
 
 ##2015-June-11
 
-* *Practice* (https://github.com/am1k/eloquent-samples)
-	* Exercise chapter 3 (~ 4h) 
-	* Exercise chapter 4 (~ 4h)
+* *Practice* 
+	* Exercise Functions (~ 4h) (https://github.com/am1k/eloquent-samples/tree/master/chapter%20Functions)
+	* Data Structures: Objects and Arrays (~ 4h)
 
 ##2015-June-10 
 
-* *Practice* (https://github.com/am1k/eloquent-samples)
+* *Practice* (https://github.com/am1k/eloquent-samples/tree/master/chapter%20Program%20Structure)
 	* Triangle drawing (~ 20min)
 	* FizzBuzz (~ 1h) 
 	* Chess Board (~ 3h ) 
