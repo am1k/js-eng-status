@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-June-16
+
+1. Chapter 6 theory ( ~ 2h)
+2. Chapter 6 practise ( ~ 5h)
+3. Chapter 7 theory ( ~ 1h)
+
 ##2015-June-15
 
 1. Сhapter 5 theory ( ~ 2h)
