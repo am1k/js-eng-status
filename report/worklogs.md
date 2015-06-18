@@ -1,6 +1,11 @@
 #Worklogs
 
-##2015-June-15 
+##2015-June-17
+
+* *Practice* 
+	* Project: Electronic Life (~ 8h)
+
+##2015-June-16 
 
 * *Practice* 
 	* Exercises The Secret Life of Objects (~ 5h) 
