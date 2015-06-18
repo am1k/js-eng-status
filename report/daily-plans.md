@@ -1,20 +1,26 @@
 #Daily Plans
 
+##2015-June-18
+
+1. Project: Electronic Life (~ 1h)
+2. Bugs and Error Handling (~ 7h)
+
 ##2015-June-17 
 
-1. Chapter Project: Electronic Life theory (~ 5h)
+1. Project: Electronic Life theory (~ 2h)
+2. Project: Electronic Life practice (~ 6h)
 
 ##2015-June-16
 
-1. Chapter The Secret Life of Objects theory ( ~ 2h)
-2. Chapter The Secret Life of Objects practise ( ~ 5h)
-3. Chapter Project: Electronic Life theory ( ~ 1h)
+1. The Secret Life of Objects theory ( ~ 2h)
+2. The Secret Life of Objects practise ( ~ 5h)
+3. Project: Electronic Life theory ( ~ 1h)
 
 ##2015-June-15
 
-1. Сhapter Higher-Order Functions theory ( ~ 2h)
-2. Chapter Higher-Order Functions practise ( ~ 5h)
-3. Chapter The Secret Life of Objects ( ~ 1h)
+1. Higher-Order Functions theory ( ~ 2h)
+2. Higher-Order Functions practise ( ~ 5h)
+3. The Secret Life of Objects ( ~ 1h)
 
 ##2015-June-12 
 
