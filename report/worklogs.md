@@ -1,9 +1,18 @@
 #Worklogs
 
+##2015-June-18
+
+* *Practice*
+	* Project: Electronic Life (~ 1h)
+	* Bugs and Error Handling (~ 3h)
+  *Theory*
+	* Bugs and Error Handling ( ~ 1h)
+	* Regular Expressions ( ~ 3h)
+
 ##2015-June-17
 
 * *Practice* 
-	* Project: Electronic Life (~ 8h)
+	* Project: Electronic Life (~ 8h) (https://github.com/am1k/eloquent-samples/tree/master/chapter%20Project%20Electronic%20Life)
 
 ##2015-June-16 
 
