@@ -5,7 +5,7 @@
 * *Practice*
 	* Project: Electronic Life (~ 1h)
 	* Bugs and Error Handling (~ 3h)
-  *Theory*
+* *Theory*
 	* Bugs and Error Handling ( ~ 1h)
 	* Regular Expressions ( ~ 3h)
 
