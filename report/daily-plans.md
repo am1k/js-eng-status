@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-June-19
+
+1. Regular Expressions (~ 4h)
+2. Modules (~ 4h)
+
 ##2015-June-18
 
 1. Project: Electronic Life (~ 1h)
