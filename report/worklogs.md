@@ -1,5 +1,15 @@
 #Worklogs
 
+##2015-June-19
+
+* *Practice*
+	* Regular Expressions ( ~ 3h)
+	* Modules ( ~ 3h)
+
+* *Theory*
+	* Modules ( ~ 2h) 
+
+
 ##2015-June-18
 
 * *Practice*
