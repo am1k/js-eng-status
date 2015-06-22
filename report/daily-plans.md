@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-June-22
+
+1. Modules ( ~ 4h)
+
 ##2015-June-19
 
 1. Regular Expressions (~ 4h)
