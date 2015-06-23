@@ -1,8 +1,12 @@
 #Daily Plans
 
+##2015-June-23
+
+1. Modules ( ~ 8h)
+
 ##2015-June-22
 
-1. Modules ( ~ 4h)
+1. Modules ( ~ 8h)
 
 ##2015-June-19
 
