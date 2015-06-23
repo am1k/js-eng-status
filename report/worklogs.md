@@ -1,15 +1,20 @@
 #Worklogs
 
-##2015-June-22
+##2015-June-23
 
 * *Practice*
 	* Modules ( ~ 8h)
+
+##2015-June-22
+
+* *Practice*
+	* Modules ( ~ 8h)(https://github.com/am1k/eloquent-samples/tree/master/example)
 
 ##2015-June-19
 
 * *Practice*
 	* Regular Expressions ( ~ 3h)
-	* Modules ( ~ 3h)
+	* Modules ( ~ 3h)(https://github.com/am1k/eloquent-samples/tree/master/chapter%20Modules)
 
 * *Theory*
 	* Modules ( ~ 2h) 
@@ -19,7 +24,7 @@
 
 * *Practice*
 	* Project: Electronic Life (~ 1h)
-	* Bugs and Error Handling (~ 3h)
+	* Bugs and Error Handling (~ 3h)(https://github.com/am1k/eloquent-samples/tree/master/chapter%20Bugs%20and%20Error%20Handling)
 * *Theory*
 	* Bugs and Error Handling ( ~ 1h)
 	* Regular Expressions ( ~ 3h)
@@ -32,7 +37,7 @@
 ##2015-June-16 
 
 * *Practice* 
-	* Exercises The Secret Life of Objects (~ 5h) 
+	* Exercises The Secret Life of Objects (~ 5h)(https://github.com/am1k/eloquent-samples/tree/master/chapter%20The%20Secret%20Life%20of%20Objects) 
 	* Theory Project: Electronic Life (~ 3h)
 
 
