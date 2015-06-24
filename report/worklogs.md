@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-June-24
+
+* *Practice*
+	* Modules ( ~ 8h) (https://github.com/am1k/eloquent-samples/tree/master/example_two/variantTwo)
+
 ##2015-June-23
 
 * *Practice*
