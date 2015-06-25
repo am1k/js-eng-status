@@ -3,7 +3,7 @@
 ##2015-June-24
 
 * *Practice*
-	* Modules ( ~ 8h) (https://github.com/am1k/eloquent-samples/tree/master/example_two/variantTwo)
+	* Modules ( ~ 8h) (https://github.com/am1k/project-electronic-life)
 
 ##2015-June-23
 
@@ -13,13 +13,13 @@
 ##2015-June-22
 
 * *Practice*
-	* Modules ( ~ 8h)(https://github.com/am1k/eloquent-samples/tree/master/example)
+	* Modules ( ~ 8h)(https://github.com/am1k/project-electronic-life)
 
 ##2015-June-19
 
 * *Practice*
 	* Regular Expressions ( ~ 3h)
-	* Modules ( ~ 3h)(https://github.com/am1k/eloquent-samples/tree/master/chapter%20Modules)
+	* Modules ( ~ 3h)(https://github.com/am1k/project-electronic-life)
 
 * *Theory*
 	* Modules ( ~ 2h) 
