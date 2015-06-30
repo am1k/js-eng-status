@@ -3,7 +3,13 @@
 ##2015-June-25
 
 * *Practice*
-	* Modules ( ~ 8h) (https://github.com/am1k/project-electronic-life)
+	* Modules ( ~ 8h) add requirejs (https://github.com/am1k/project-electronic-life/tree/requirejs)
+	
+
+##2015-June-25
+
+* *Practice*
+	* Modules ( ~ 8h) add new stucture models (https://github.com/am1k/project-electronic-life)
 
 ##2015-June-24
 
