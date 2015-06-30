@@ -1,20 +1,29 @@
 #Daily Plans
 
+##2015-June-29
+1. Modules (~ 8h)
+    * commonjs 
+
 ##2015-June-26
 
 1. Modules ( ~ 8h)
+    * change requirejs 
 
 ##2015-June-25
 
 1. Modules ( ~ 8h)
+    * model structure
+    * requirejs for project
 
 ##2015-June-24
 
 1. Modules ( ~ 8h)
+    * model structure
 
 ##2015-June-23
 
 1. Modules ( ~ 8h)
+    * investigation model structure
 
 ##2015-June-22
 
