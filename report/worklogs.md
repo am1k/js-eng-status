@@ -1,6 +1,6 @@
 #Worklogs
 
-##2015-June-25
+##2015-June-26
 
 * *Practice*
 	* Modules ( ~ 8h) add requirejs (https://github.com/am1k/project-electronic-life/tree/requirejs)
