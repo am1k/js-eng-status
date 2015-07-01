@@ -1,8 +1,12 @@
 #Daily Plans
 
-##2015-June-29
+##2015-July-1
+1. Test Driven Development (~ 8h)
+
+##2015-June-30
 1. Modules (~ 8h)
     * commonjs 
+2. Test Driven Development (~ 1h)
 
 ##2015-June-26
 
