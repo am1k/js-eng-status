@@ -1,5 +1,14 @@
 #Worklogs
 
+
+##2015-July-1
+
+* *Practice*
+	* Modules (~ 8h)
+	* refactoring requirej (https://github.com/am1k/project-electronic-life/tree/requirejs)
+	* refactoring commonjs (https://github.com/am1k/project-electronic-life/tree/commonjs_refactoring)
+	* browserify (https://github.com/am1k/project-electronic-life/tree/browserify)
+
 ##2015-June-30
 
 * *Practice*
