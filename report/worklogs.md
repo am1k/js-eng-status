@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-June-30
+
+* *Practice*
+	* Modules (~ 8h) add commonjs (https://github.com/am1k/project-electronic-life/tree/commonjs)
+
 ##2015-June-26
 
 * *Practice*
