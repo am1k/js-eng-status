@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-July-2
+
+* *Theory*
+	* Test Driven Development
+* *Practice*
+	* Try bdd with utils
 
 ##2015-July-1
 
