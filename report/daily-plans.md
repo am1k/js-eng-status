@@ -1,9 +1,11 @@
 #Daily Plans
 
+##2015-July-6
+1. Try bdd with utils
+
 ##2015-July-3
 1. Test Driven Development
 2. Try bdd with utils
-3. Project: A Programming Language
 
 ##2015-July-2
 1. Test Driven Development( ~ 8h)
