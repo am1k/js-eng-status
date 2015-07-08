@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-8
+1. Project: A Programming Language
+
 ##2015-July-7
 1. Try bdd with utils
 
