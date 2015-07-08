@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-July-7
+* *Practice*
+	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils)
+* *Theory*
+	* Project: A Programming Language
+
 ##2015-July-6
 * *Practice*
 	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils)
