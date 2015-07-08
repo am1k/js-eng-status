@@ -2,17 +2,17 @@
 
 ##2015-July-7
 * *Practice*
-	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils)
+	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils-1)
 * *Theory*
 	* Project: A Programming Language
 
 ##2015-July-6
 * *Practice*
-	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils)
+	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils-1)
 
 ##2015-July-3
 * *Practice*
-	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils)
+	* Try bdd with utils (https://github.com/am1k/try-bdd-with-utils-1)
 	
 ##2015-July-2
 
