@@ -1,7 +1,11 @@
 #Daily Plans
 
-##2015-July-9
+##2015-July-10
 1. Project: A Programming Language
+
+##2015-July-9
+1. Try bdd with utils
+2. Project: A Programming Language
 
 ##2015-July-8
 1. Project: A Programming Language
