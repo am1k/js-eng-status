@@ -1,5 +1,13 @@
 #Worklogs
 
+##2015-July-13
+* *Practice*
+	*  Project: A Programming Language (https://github.com/am1k/eloquent-samples/tree/master/Project%20A%20Programming%20Language)
+* *Theory*
+	*  JavaScript and the Browser
+	*  The Document Object Model
+	*  Handling Events
+
 ##2015-July-10
 * *Practice*
 	*  Project: A Programming Language (https://github.com/am1k/eloquent-samples/tree/master/Project%20A%20Programming%20Language)
