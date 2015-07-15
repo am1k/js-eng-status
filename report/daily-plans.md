@@ -1,6 +1,10 @@
 #Daily Plans
 
-##2015-July-13
+##2015-July-15
+1. Project: A Programming Language
+2. Handling Events 
+
+##2015-July-14
 1. Project: A Programming Language
 2. Handling Events 
 
