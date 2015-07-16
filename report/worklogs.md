@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-15
+* *Practice* 
+	* The Document Object Model (https://github.com/am1k/eloquent-samples/tree/master/Document%20Object%20Model)
+	* Handling Events
+
 ##2015-July-14
 * *Practice* (https://github.com/am1k/eloquent-samples/tree/master/Handling%20Events)
 	* JavaScript and the Browser
