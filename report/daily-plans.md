@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-July-21
+1. Project: A Platform Game (creaty module stacture, add tests)
+
+##2015-July-20
+1. Project: A Platform Game (Theory, Practice)
+
 ##2015-July-15
 1. Project: A Programming Language
 2. Handling Events 
