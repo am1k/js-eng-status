@@ -4,7 +4,7 @@
 * *Theory*
 	* Project: A Platform Game
 * *Practice*
-	* Project: A Platform Game
+	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
 
 ##2015-July-15
 * *Practice* 
