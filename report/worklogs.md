@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-July-20
+* *Theory*
+	* Project: A Platform Game
+* *Practice*
+	* Project: A Platform Game
+
 ##2015-July-15
 * *Practice* 
 	* The Document Object Model (https://github.com/am1k/eloquent-samples/tree/master/Document%20Object%20Model)
