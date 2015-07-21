@@ -1,5 +1,9 @@
 #Worklogs
 
+##2015-July-21
+* *Practice*
+	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
+
 ##2015-July-20
 * *Theory*
 	* Project: A Platform Game
