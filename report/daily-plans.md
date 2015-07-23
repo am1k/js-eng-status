@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-July-23
+1. Project: A Platform Game (add tests)
+
+##2015-July-22
+1. Project: A Platform Game (add tests)
+
 ##2015-July-21
 1. Project: A Platform Game (creaty module stacture, add tests)
 
