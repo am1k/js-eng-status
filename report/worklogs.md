@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-22
+* *Practice*
+	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
+		* add new tests
+
 ##2015-July-21
 * *Practice*
 	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
