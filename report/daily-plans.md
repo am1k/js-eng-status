@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-July-25
+1.Canvas
+2.HTTP
+
+##2015-July-24
+1. Project: A Platform Game (add tests, add readme)
+2. Programming Language(add readme)
+3. Canvas
+
 ##2015-July-23
 1. Project: A Platform Game (add tests)
 
