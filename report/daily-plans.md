@@ -1,6 +1,6 @@
 #Daily Plans
 
-##2015-July-25
+##2015-July-27
 1.Canvas
 2.HTTP
 
