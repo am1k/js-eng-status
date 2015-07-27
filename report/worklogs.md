@@ -1,5 +1,14 @@
 #Worklogs
 
+##2015-July-24
+* *Practice*
+	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
+		* add tests
+		* add readme
+	*  Project: A Programming Language https://github.com/am1k/Program-Language)
+		* add readme
+	* Canvas
+
 ##2015-July-23
 * *Practice*
 	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
