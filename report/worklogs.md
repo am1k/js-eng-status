@@ -1,5 +1,14 @@
 #Worklogs
 
+##2015-July-27
+* *Practice*
+	* Project: A Platform Game (https://github.com/am1k/Platform-Game/tree/visual_update)
+		* add readme
+		* add compas
+		* add game over picture
+* *Theory*
+	* HTTP
+
 ##2015-July-24
 * *Practice*
 	* Project: A Platform Game (https://github.com/am1k/Platform-Game)
