@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-July-28
+* *Theory*
+	* HTTP
+	* Forms and Form Fields
+* *Practice*
+	* HTTP (https://github.com/am1k/eloquent-samples/tree/master/HTTP)
+
 ##2015-July-27
 * *Practice*
 	* Project: A Platform Game (https://github.com/am1k/Platform-Game/tree/visual_update)
