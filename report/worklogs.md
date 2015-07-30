@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-July-29
+* *Practice*
+	* Forms and Form Fields(https://github.com/am1k/eloquent-samples/tree/master/Forms%20and%20Form%20Fields)
+	* Project: A Paint Program (https://github.com/am1k/Paint_Project)
+* *Theory*
+	* Project: A Paint Program
+	
 ##2015-July-28
 * *Theory*
 	* HTTP
